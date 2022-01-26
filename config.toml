@@ -1,0 +1,92 @@
+baseurl      = ""
+title        = "Massimo Meert"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+copyright = "<a href=\"/license\">License</a>"
+
+enableEmoji     = true
+enableRobotsTXT = true
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Metadata mostly used in document's head
+  description = "Massimo Meert's personal website"
+  keywords = "homepage, blog"
+  images = [""]
+  
+  # Home stuff
+  homeTitle = "Massimo Meert"
+  homeSubtitle = "CS student from Belgium."
+  
+  # Theme toggle
+  enableThemeToggle = true
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = false
+  
+  [params.footer]
+    trademark = false
+    rss = true
+    copyright = true
+    author = true
+
+    bottomText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+      "Made with &#10084; by <a href=\"https://github.com/masmeert\">masmeert</a>"
+    ]
+    
+   # [params.portrait]  
+    # path     = "test.png"
+    # alt      = "Logo"
+    # maxWidth = "75px"      
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/masmeert"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:massimomeert@protonmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/masmeert"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "Massimo Meert"
+    subtitle = ""
+    keywords = ""
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "$ masmeert"
+      logoHomeLink = "/"
+      logoCursorColor = "#ABE9B3"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "posts"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "projects"  
