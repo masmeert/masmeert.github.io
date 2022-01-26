@@ -1,4 +1,4 @@
-baseurl      = ""
+baseurl      = "https://masmeert.github.io"
 title        = "Massimo Meert"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
