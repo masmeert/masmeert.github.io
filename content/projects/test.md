@@ -1,6 +1,6 @@
 +++
-title = "Guessera"
-description = "Interactive geography game"
+title = "test"
+description = "test"
 type = ["projects","project"]
 tags = [
     "web",
