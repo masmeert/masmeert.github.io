@@ -19,4 +19,5 @@ date = "2022-01-24"
   name = "Massimo Meert"
 +++
 
-A interactive geography game for young learners. Initially built for a hackaton now a side project with [Cyrus](https://github.com/ohCyrus)
+A interactive geography game for kids to have fun while learning countries. Built for a hackaton with [Cyrus](https://github.com/ohCyrus).
+Read more about it [here](https://github.com/ohCyrus/guessera).
