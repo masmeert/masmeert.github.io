@@ -6,7 +6,7 @@ tags = [
     "python",
     "api",
     "database",
-    "languages"
+    "languages",
     "development",
 ]
 categories = [
