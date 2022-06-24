@@ -14,7 +14,7 @@ categories = [
     "web",
     "freelancing",
 ]
-date = "2021-07-01"
+date = "2022-07-01"
 [ author ]
   name = ["Massimo Meert", "Sylvain Bouillon"]
 +++
