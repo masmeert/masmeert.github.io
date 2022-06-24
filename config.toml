@@ -21,7 +21,7 @@ enableRobotsTXT = true
   
   # Home stuff
   homeTitle = "Massimo Meert"
-  homeSubtitle = "CS student from Belgium."
+  homeSubtitle = "CS student & freelancer from Belgium."
   
   # Theme toggle
   enableThemeToggle = true
