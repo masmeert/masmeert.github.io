@@ -7,7 +7,7 @@ aliases = ["about-me","about-masmeert","contact"]
 +++
 
 ## About me
-Hello! I'm Massimo Meert, a CS / data science student from Belgium. I love backend development, devops, and have an interest in databases and machine learning. Nice to meet you!
+Hello! I'm Massimo, a CS student from Belgium. I love backend development, devops, and have an interest in databases and cloud computing. Nice to meet you!
 
-## About this website
-This website was built with [Hugo](https://gohugo.io/), using the [hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) theme, and deployed with Github Pages.
+## Freelancing
+I'm also a full-stack developer in my free-time, check out some of my projects in the next tab (repos are on the way). If you want to work together or hire me, feel free to contact me at pro@masmeert.com !

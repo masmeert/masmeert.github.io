@@ -20,5 +20,4 @@ date = "2021-07-20"
 
 Chishiki is an extensive database of Kanjis with an easy to use API.
 The API allows you to look up kanjis by reading, meaning, JLPT level and much more.
-
-*discord bot coming soon*
+There's also a discord bot !
