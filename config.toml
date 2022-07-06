@@ -88,3 +88,7 @@ enableRobotsTXT = true
     identifier = "projects"
     name       = "Projects"
     url        = "projects"  
+
+# allow iframes ?
+[markup.goldmark.renderer]
+  unsafe = true
