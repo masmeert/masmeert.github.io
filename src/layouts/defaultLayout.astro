@@ -1,0 +1,29 @@
+---
+import Navbar from "@components/layout/navbar";
+
+---
+
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Massimo Meert</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+</head>
+
+<body class="flex flex-col items-center h-screen">
+  <div class="w-full max-w-3xl flex-grow">
+    <Navbar />
+    <div class="p-4 pb-10">
+      <div class="prose lg:prose-lg">
+        <slot />
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
