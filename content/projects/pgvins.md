@@ -24,7 +24,7 @@ Rebuilding the [pgvins website](http://www.pgvins.be/) into a fully fledged e-co
 
 You can follow the development on the [public repo](https://github.com/boomee-pro/pgvins-monorepo), and look at the design system below.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FBqK8njVlXnVk6mOjO8pwhY%2Fpgvins%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FBqK8njVlXnVk6mOjO8pwhY%2Fpgvins%3Fnode-id%3D50%253A9" allowfullscreen></iframe>
 
 ### Team
 
