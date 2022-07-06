@@ -6,6 +6,7 @@ tags = [
     "typescript",
     "express",
     "Next.js",
+    "prisma",
     "web",
     "development",
 ]
