@@ -31,7 +31,7 @@ You can follow the development on the [public repo](https://github.com/boomee-pr
 #### Development
 
 - [Massimo Meert](https://github.com/masmeert)
-- [Sylvain Bouillon](https://github.com/faytrick)
+- [Sylvain Bouillon](https://github.com/fayrtrick)
 
 #### Design
 
