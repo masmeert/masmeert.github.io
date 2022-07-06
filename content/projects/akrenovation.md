@@ -19,4 +19,6 @@ date = "2022-05-10"
   name = ["Massimo Meert", "Sylvain Bouillon"]
 +++
 
-Desktop app for [akrenovation](https://www.akrenovation.be/), used for house analysis.
+Desktop app for [akrenovation](https://www.akrenovation.be/), used for house analysis and quick invoice generation.
+
+This app was made for one of my client and is therefore private, but if you want to have a peek at it feel free to contact me!

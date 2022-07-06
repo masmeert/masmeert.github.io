@@ -17,4 +17,6 @@ date = "2021-05-01"
   name = "Massimo Meert"
 +++
 
-Inventory management app for the elle-et-moi shop.
+elle-et-moi is an inventory management software built for the eponymous clothes store. Some of the interesting features implemented: QR code scanning, product trend reporting, low stock notifications, profit and loss reporting.
+
+This app was made for one of my client and is therefore private, but if you want to have a peek at it feel free to contact me!

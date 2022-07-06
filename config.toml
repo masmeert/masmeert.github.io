@@ -3,7 +3,6 @@ title        = "Massimo Meert"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
-copyright = "<a href=\"/license\">License</a>"
 
 enableEmoji     = true
 enableRobotsTXT = true
@@ -40,7 +39,6 @@ enableRobotsTXT = true
 
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/masmeert\">masmeert</a>"
     ]
     
    # [params.portrait]  
